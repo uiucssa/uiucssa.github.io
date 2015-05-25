@@ -1,0 +1,31 @@
+---
+layout: page
+title: Upcoming Events
+---
+
+<table class="table">
+	{% for event in site.data.events %}
+		{% if event.date == 'TBA' %}
+			<tr> <td class="col-md-2" style="border-top: none; vertical-align: middle;"><h4 style="font-family:monospace;">?? ??? ????</h4></td> <td style="border-top: none; vertical-align: middle;"><h4><a href="{{ event.url }}">{{ event.name }}</a>
+
+	        (TBA)
+
+			</h4></td> </tr>
+		{% else %}
+			<tr> <td class="col-md-2" style="border-top: none; vertical-align: middle;"><h4 style="font-family:monospace;">{{ event.date | date: '%d %b %Y' | upcase }}</h4></td> <td style="border-top: none; vertical-align: middle;"><h4><a href="{{ event.url }}">{{ event.name }}</a>
+
+			<span class="hidden-lg"><br></span>
+
+	        <script type="text/javascript">
+	          var eventDate = new Date('{{ event.date }}');
+	          var currentDate = new Date();
+
+	          var dateDiff = eventDate.getTime() - currentDate.getTime();
+	          var daysLeft = Math.floor( dateDiff / (1000*60*60*24) );
+	          document.write('(in ' + daysLeft + ' days)');
+	        </script>
+
+			</h4></td> </tr>
+		{% endif %}
+	{% endfor %}
+</table>

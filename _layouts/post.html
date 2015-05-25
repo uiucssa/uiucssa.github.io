@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron" style="margin-bottom: 0px; padding: 10px;">
+  <div class="container">
+    <h3><small>Blog &raquo; </small><br>{{ page.title }}</h3>
+    <p class="lead">{{ page.date | date: '%d %b %Y' | upcase }} // {{ page.author | upcase }}</p>
+  </div>
+</div>
+<hr style="border: none; height: 2px; background-color: #ED2E38; margin-top: 0px;">
+
+<div class="container" style="font-size: 15px;">
+  {{ content }}
+</div>

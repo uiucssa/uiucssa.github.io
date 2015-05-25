@@ -1,0 +1,81 @@
+---
+layout: base
+title: Home
+---
+
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron" style="margin-bottom: 0px;">
+  <div class="container">
+    <h2>UIUC <span style="color: #ED2E38;">Singapore</span> Students Association</h2>
+    <p>A home away from home in the University of Illinois at Urbana-Champaign</p>
+
+    <p>
+      <a class="btn btn-primary btn-lg" href="https://www.facebook.com/UIUCSSA" role="button" style="background-color: #3B5998; margin-bottom: 10px;"><i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;Page</a>
+      <a class="btn btn-primary btn-lg" href="https://www.facebook.com/groups/uiucssa/" role="button" style="background-color: #3B5998; margin-bottom: 10px;"><i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;Group</a>
+      <!-- <a class="btn btn-primary btn-lg" href="#" role="button" style="background-color: #55ACEE; margin-bottom: 10px;"><i class="fa fa-twitter-square fa-lg"></i>&nbsp;&nbsp;Twitter</a> -->
+    </p>
+  </div>
+</div>
+<hr style="border: none; height: 2px; background-color: #ED2E38; margin-top: 0px;">
+
+<div class="container">
+  <!-- Example row of columns -->
+  <div class="row">
+    <div class="col-md-4" style="margin-bottom: 40px;">
+      <h3>From the blog</h3>
+      <table class="table table-condensed" style="height: 200px;">
+        {% for post in site.posts limit:1 %}
+          <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ post.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ post.url }}">{{ post.title }}</a></td> </tr>
+        {% endfor %}
+        {% for post in site.posts limit:4 offset:1 %}
+          <tr> <td class="col-md-4"><span style="font-family:monospace;">{{ post.date | date: '%d %b %Y' | upcase }}</span></td> <td><a href="{{ post.url }}">{{ post.title }}</a></td> </tr>
+        {% endfor %}
+      </table>
+      <p><a class="btn btn-default" href="/blog.html" role="button">More posts &raquo;</a></p>
+    </div>
+
+    <div class="col-md-4" style="margin-bottom: 40px;">
+      <h3>Hi there</h3>
+
+      <table class="table table-condensed" style="height: 200px; line-height: 1.5;">
+          <tr><td style="border-top: none">
+            <p>Are you an incoming Freshman?</p>
+            <p>If you are, welcome and congratulations on being admitted to UIUC. </p>
+            <p>Now check out your personal guide to getting started at the school. </p>
+            <p>We look forward to seeing you around soon! </p>
+          </td></tr>
+      </table>
+      
+      <p><a class="btn btn-default" href="attach/fighting_illini_handbook_2014.pdf" role="button">Fighting Illini Handbook &raquo;</a></p>
+    </div>
+
+    <div class="col-md-4" style="margin-bottom: 40px;">
+      <h3>What's next</h3>
+      <table class="table table-condensed" style="height: 200px;">
+        {% for event in site.data.events limit:3 %}
+          {% if event.date == 'TBA' %}
+            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">?? ??? ????</span></td> <td style="border-top: none"><a href="{{ event.url }}">{{ event.name }}</a><br>
+
+              (TBA)
+
+            </td> </tr>
+          {% else %}
+            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ event.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ event.url }}">{{ event.name }}</a><br>
+
+              <script type="text/javascript">
+                var eventDate = new Date('{{ event.date }}');
+                var currentDate = new Date();
+
+                var dateDiff = eventDate.getTime() - currentDate.getTime();
+                var daysLeft = Math.floor( dateDiff / (1000*60*60*24) );
+                document.write('(in ' + daysLeft + ' days)');
+              </script>
+
+            </td> </tr>
+          {% endif %}
+        {% endfor %}
+      </table>
+      <p><a class="btn btn-default" href="/events.html" role="button">Upcoming events &raquo;</a></p>
+    </div>
+  </div>
+</div>
