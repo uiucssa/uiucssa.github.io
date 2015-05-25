@@ -5,7 +5,7 @@ author: Kenneth Koh
 ---
 
 <div style="margin-bottom: 50px;">
-	<img src="/assets/labor-day-chicago-trip-2013-1.jpg" class="img-responsive center-block">
+	<img src="{{ site.url }}/assets/labor-day-chicago-trip-2013-1.jpg" class="img-responsive center-block">
 </div>
 
 UIUC SSA commemorated the long Labour Day weekend with our annual trip to Chicago! We had an overwhelming take-up rate for the trip, with two packed buses (and a few cars as well) leaving Urbana for the 3-hour journey to metropolitan Chicago on Saturday morning.
@@ -25,9 +25,9 @@ Our second day was spent at Aurora, an outlet mall, where we spent almost six co
 All in all, the Chicago trip organized by SSA was an extremely fun experience. The effort and dedication put into organizing the trip was evident in how smoothly everything ran, and the trip itself served not only as an introduction to Chicago, but also as an opportunity for everyone to get to know each other better, as well as a refreshing break after the first hectic week of school. I look forward to participating in more such events in the future!
 
 <div style="margin-top: 50px; margin-bottom: 50px;">
-	<img src="/assets/labor-day-chicago-trip-2013-2.jpg" class="img-responsive center-block">
+	<img src="{{ site.url }}/assets/labor-day-chicago-trip-2013-2.jpg" class="img-responsive center-block">
 </div>
 
 <div style="margin-top: 50px;">
-	<img src="/assets/labor-day-chicago-trip-2013-3.jpg" class="img-responsive center-block">
+	<img src="{{ site.url }}/assets/labor-day-chicago-trip-2013-3.jpg" class="img-responsive center-block">
 </div>

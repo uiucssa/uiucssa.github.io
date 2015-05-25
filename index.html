@@ -31,7 +31,7 @@ title: Home
           <tr> <td class="col-md-4"><span style="font-family:monospace;">{{ post.date | date: '%d %b %Y' | upcase }}</span></td> <td><a href="{{ post.url }}">{{ post.title }}</a></td> </tr>
         {% endfor %}
       </table>
-      <p><a class="btn btn-default" href="/blog.html" role="button">More posts &raquo;</a></p>
+      <p><a class="btn btn-default" href="{{ site.url }}/blog.html" role="button">More posts &raquo;</a></p>
     </div>
 
     <div class="col-md-4" style="margin-bottom: 40px;">
@@ -46,7 +46,7 @@ title: Home
           </td></tr>
       </table>
       
-      <p><a class="btn btn-default" href="attach/fighting_illini_handbook_2014.pdf" role="button">Fighting Illini Handbook &raquo;</a></p>
+      <p><a class="btn btn-default" href="{{ site.url }}/attach/fighting_illini_handbook_2014.pdf" role="button">Fighting Illini Handbook &raquo;</a></p>
     </div>
 
     <div class="col-md-4" style="margin-bottom: 40px;">
@@ -75,7 +75,7 @@ title: Home
           {% endif %}
         {% endfor %}
       </table>
-      <p><a class="btn btn-default" href="/events.html" role="button">Upcoming events &raquo;</a></p>
+      <p><a class="btn btn-default" href="{{ site.url }}/events.html" role="button">Upcoming events &raquo;</a></p>
     </div>
   </div>
 </div>

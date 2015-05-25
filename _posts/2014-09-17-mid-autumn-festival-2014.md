@@ -5,7 +5,7 @@ author: Ignatius Ho
 ---
 
 <div style="margin-bottom: 50px;">
-	<img src="/assets/mooncakemaking.jpg" class="img-responsive center-block">
+	<img src="{{ site.url }}/assets/mooncakemaking.jpg" class="img-responsive center-block">
 </div>
 
 Miles away from home in Singapore, 13 hours behind in time, away from family in every sense. That was the Mid-Autumn Festival (MAF) celebrated this year. Yet in another sense, MAF was celebrated with “family”, thanks to the wonderful MAF celebration organized by the SSA.
@@ -17,9 +17,9 @@ Later on in the night, we all gathered at the quad for the actual celebration. L
 Though it was a cold night, the warmth of friendship that abounded among us canceled out the chilliness of the night. Here’s to a great semester ahead for everyone and to the SSA as we strive to be a home away from home.
 
 <div style="margin-top: 50px; margin-bottom: 50px;">
-	<img src="/assets/skylantern.jpg" class="img-responsive center-block">
+	<img src="{{ site.url }}/assets/skylantern.jpg" class="img-responsive center-block">
 </div>
 
 <div style="margin-top: 50px;">
-	<img src="/assets/skylantern2.jpg" class="img-responsive center-block">
+	<img src="{{ site.url }}/assets/skylantern2.jpg" class="img-responsive center-block">
 </div>

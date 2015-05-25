@@ -5,7 +5,7 @@ author: Kang Yong Loh
 ---
 
 <div style="margin-bottom: 50px;">
-	<img src="/assets/chicagotrip2.jpg" class="img-responsive center-block">
+	<img src="{{ site.url }}/assets/chicagotrip2.jpg" class="img-responsive center-block">
 </div>
 
 UIUC SSA commemorated the long Labor Day weekend with our annual trip to Chicago between August 30 2014 and August 31 2014! Our strong contingent of 45 SSA members began our journey to metropolitan Chicago on early Saturday morning with 2 fully packed buses and 3 cars. While the 3 hour ride through the corn fields of Urbana-Champaign was exciting, our morale was significantly enhanced upon reaching our first stop – CHINATOWN!
@@ -23,5 +23,5 @@ Our second day was spent shopping and spending money at Aurora, an outlet mall. 
 To conclude, this Chicago trip was an incredibly great experience which all members will treasure! It was a trip that not only exposed us to the American Culture but more importantly brought all of us closer to each other and bonded as one big Singapore Family! This epitomizes our SSA vision to be a home away from home, and to collectively engage the University community and beyond!
 
 <div style="margin-top: 50px;">
-	<img src="/assets/chicago.jpg" class="img-responsive center-block">
+	<img src="{{ site.url }}/assets/chicago.jpg" class="img-responsive center-block">
 </div>
