@@ -6,13 +6,13 @@ title: Upcoming Events
 <table class="table">
 	{% for event in site.data.events %}
 		{% if event.date == 'TBA' %}
-			<tr> <td class="col-md-2" style="border-top: none; vertical-align: middle;"><h4 style="font-family:monospace;">?? ??? ????</h4></td> <td style="border-top: none; vertical-align: middle;"><h4><a href="{{ event.url }}">{{ event.name }}</a>
+			<tr> <td class="col-md-2" style="border-top: none; vertical-align: middle;"><h4 style="font-family:monospace;">?? ??? ????</h4></td> <td style="border-top: none; vertical-align: middle;"><h4><a href="{{ site.url }}/{{ event.url }}">{{ event.name }}</a>
 
 	        (TBA)
 
 			</h4></td> </tr>
 		{% else %}
-			<tr> <td class="col-md-2" style="border-top: none; vertical-align: middle;"><h4 style="font-family:monospace;">{{ event.date | date: '%d %b %Y' | upcase }}</h4></td> <td style="border-top: none; vertical-align: middle;"><h4><a href="{{ event.url }}">{{ event.name }}</a>
+			<tr> <td class="col-md-2" style="border-top: none; vertical-align: middle;"><h4 style="font-family:monospace;">{{ event.date | date: '%d %b %Y' | upcase }}</h4></td> <td style="border-top: none; vertical-align: middle;"><h4><a href="{{ site.url }}/{{ event.url }}">{{ event.name }}</a>
 
 			<span class="hidden-lg"><br></span>
 
