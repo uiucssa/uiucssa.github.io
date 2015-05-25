@@ -25,10 +25,10 @@ title: Home
       <h3>From the blog</h3>
       <table class="table table-condensed" style="height: 200px;">
         {% for post in site.posts limit:1 %}
-          <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ post.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a></td> </tr>
+          <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ post.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td> </tr>
         {% endfor %}
         {% for post in site.posts limit:4 offset:1 %}
-          <tr> <td class="col-md-4"><span style="font-family:monospace;">{{ post.date | date: '%d %b %Y' | upcase }}</span></td> <td><a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a></td> </tr>
+          <tr> <td class="col-md-4"><span style="font-family:monospace;">{{ post.date | date: '%d %b %Y' | upcase }}</span></td> <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td> </tr>
         {% endfor %}
       </table>
       <p><a class="btn btn-default" href="{{ site.url }}/blog.html" role="button">More posts &raquo;</a></p>
@@ -54,13 +54,13 @@ title: Home
       <table class="table table-condensed" style="height: 200px;">
         {% for event in site.data.events limit:3 %}
           {% if event.date == 'TBA' %}
-            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">?? ??? ????</span></td> <td style="border-top: none"><a href="{{ site.url }}/{{ event.url }}">{{ event.name }}</a><br>
+            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">?? ??? ????</span></td> <td style="border-top: none"><a href="{{ site.url }}{{ event.url }}">{{ event.name }}</a><br>
 
               (TBA)
 
             </td> </tr>
           {% else %}
-            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ event.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ site.url }}/{{ event.url }}">{{ event.name }}</a><br>
+            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ event.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ site.url }}{{ event.url }}">{{ event.name }}</a><br>
 
               <script type="text/javascript">
                 var eventDate = new Date('{{ event.date }}');
