@@ -54,13 +54,13 @@ title: Home
       <table class="table table-condensed" style="height: 200px;">
         {% for event in site.data.events limit:3 %}
           {% if event.date == 'TBA' %}
-            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">?? ??? ????</span></td> <td style="border-top: none"><a href="{{ event.url }}">{{ event.name }}</a><br>
+            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">?? ??? ????</span></td> <td style="border-top: none"><a href="{{ site.url }}/events.html#{{ event.id }}">{{ event.name }}</a><br>
 
               (TBA)
 
             </td> </tr>
           {% else %}
-            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ event.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ event.url }}">{{ event.name }}</a><br>
+            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ event.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ site.url }}/events.html#{{ event.id }}">{{ event.name }}</a><br>
 
               <script type="text/javascript">
                 var eventDate = new Date('{{ event.date }}');
