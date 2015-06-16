@@ -32,14 +32,36 @@ title: Upcoming Events
 
 						<span class="hidden-lg"><br></span>
 
-				        <script type="text/javascript">
-				          var eventDate = new Date('{{ event.date }}');
-				          var currentDate = new Date();
+			              <script type="text/javascript">
+			                var eventDate = new Date("{{ event.date | date: '%d %b %Y' | upcase }}");
+			                var currentDate = new Date();
 
-				          var dateDiff = eventDate.getTime() - currentDate.getTime();
-				          var daysLeft = Math.floor( dateDiff / (1000*60*60*24) );
-				          document.write('(in ' + daysLeft + ' days)');
-				        </script>
+			                var dateDiff = eventDate.getTime() - currentDate.getTime();
+			                var daysLeft = Math.floor( dateDiff / (1000*60*60*24) );
+
+			                var message = "";
+
+			                switch(daysLeft)
+			                {
+			                  case 0:
+			                    message = "it's tomorrow!";
+			                    break;
+			                  case -1:
+			                    message = "it's today!";
+			                    break;
+			                  default:
+			                    if(daysLeft >= 6) message = "in " + daysLeft + " days";
+			                    else if(daysLeft < 0) message = "you've missed it";
+			                    else
+			                    {
+			                      dayofWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+			                      message = "this coming " + dayofWeek[eventDate.getDay()];
+			                    }
+			                    break;
+			                }
+
+			                document.write("(" + message + ")");
+			              </script>
 
 				    	<br>
 					
