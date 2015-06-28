@@ -69,15 +69,21 @@
 
       <footer>
         <p>
-          Powered by <a href="http://getbootstrap.com/">Bootstrap</a> / <a href="http://jekyllrb.com/">Jekyll</a> / <a href="https://jquery.com/">jQuery</a> / <a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a>
-          <br>
-          Generated on {{ 'now' | date: '%d %b %Y' }}
+          <span class="pull-left">
+            Powered by <a href="http://getbootstrap.com/">Bootstrap</a> / <a href="http://jekyllrb.com/">Jekyll</a> / <a href="https://jquery.com/">jQuery</a> / <a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a>
+            <br>
+            Generated on {{ 'now' | date: '%d %b %Y' }}
 
-          <script type="text/javascript">
-            var version = {{ 'now' | date: '%s' }};
+            <script type="text/javascript">
+              var version = {{ 'now' | date: '%s' }};
 
-            document.write('(' + version.toString(16) + ')');
-          </script>
+              document.write('(' + version.toString(16) + ')');
+            </script>
+          </span>
+
+          <span class="pull-right">
+            Questions? <a href="mailto:core@uiucssa.com">core@uiucssa.com</a>
+          </span>
         </p>
       </footer>
     </div> <!-- /container -->
