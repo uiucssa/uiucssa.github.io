@@ -1,2 +1,4 @@
 gems:
   - jekyll-sitemap
+
+timezone: America/Chicago
