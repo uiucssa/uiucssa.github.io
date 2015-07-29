@@ -51,8 +51,8 @@
 - id: 3
   name: SSA Orientation Day 2015
   date: 2015-08-22
-  start_time: 2015-08-22T10:00:00-05:00
-  end_time: 2015-08-22T12:00:00-05:00
+  start_time: 2015-08-22T10:00:00-06:00
+  end_time: 2015-08-22T12:00:00-06:00
   location: UIUC South Quad
   description: |
     For the freshies - Come on out and meet your fellow batchmates and seniors as you prepare to embark on a wonderful journey at your new home away from home!
@@ -70,8 +70,8 @@
 - id: 5
   name: SSA Labor Day Chicago Trip 2015
   date: 2015-09-05
-  start_time: 2015-09-05T09:00:00-05:00
-  end_time: 2015-09-06T17:00:00-05:00
+  start_time: 2015-09-05T09:00:00-06:00
+  end_time: 2015-09-06T17:00:00-06:00
   location: Somewhere in Chicago
   description: |
     Check linked Facebook post for more details. Advance registration is required.
