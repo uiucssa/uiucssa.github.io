@@ -6,7 +6,7 @@ title: Upcoming Events
 <table class="table">
 	{% for event in site.data.events %}
 		{% if event.date == 'TBA' %}
-			<tr> 
+			<tr>
 				<td class="col-md-2" style="border-top: none; vertical-align: top;"><a class="anchor" id="{{ event.id }}"></a><h4 style="font-family:monospace;">?? ??? ????</h4></td>
 				<td style="border-top: none; vertical-align: middle;">
 					<h4><a href="{{ event.url }}">{{ event.name }}</a>
@@ -16,7 +16,7 @@ title: Upcoming Events
 				        (TBA)
 
 				    	<br>
-					
+
 						{% if event.start_time and event.end_time and event.location %}<small>{{ event.start_time | date: '%I:%M %p' | upcase }} &mdash; {{ event.end_time | date: '%I:%M %p %Z' | upcase }} //<span class="hidden-lg"><br></span> {{ event.location }}</small>{% endif %}
 
 					</h4>
@@ -25,7 +25,7 @@ title: Upcoming Events
 				</td>
 			</tr>
 		{% else %}
-			<tr> 
+			<tr>
 				<td class="col-md-2" style="border-top: none; vertical-align: top;"><a class="anchor" id="{{ event.id }}"></a><h4 style="font-family:monospace;">{{ event.date | date: '%d %b %Y' | upcase }}</h4></td>
 				<td style="border-top: none; vertical-align: middle;">
 					<h4><a href="{{ event.url }}">{{ event.name }}</a>
@@ -55,7 +55,7 @@ title: Upcoming Events
 			                    else
 			                    {
 			                      dayofWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-			                      message = "this upcoming " + dayofWeek[eventDate.getDay()];
+			                      message = "this coming " + dayofWeek[eventDate.getDay()];
 			                    }
 			                    break;
 			                }
@@ -64,7 +64,7 @@ title: Upcoming Events
 			              </script>
 
 				    	<br>
-					
+
 						{% if event.start_time and event.end_time and event.location %}<small>{{ event.start_time | date: '%I:%M %p' | upcase }} &mdash; {{ event.end_time | date: '%I:%M %p %Z' | upcase }} //<span class="hidden-lg"><br></span> {{ event.location }}</small>{% endif %}
 
 					</h4>
