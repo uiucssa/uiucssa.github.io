@@ -69,11 +69,21 @@
   url: #
 
 - id: 4
+  name: UIUC Quad Day 2015
+  date: 2015-08-23
+  start_time: 2015-08-23 12:00:00 CDT
+  end_time: 2015-08-23 16:00:00 CDT
+  location: UIUC Main Quad
+  description: |
+    We'll be at UIUC Quad Day 2015! Come check us out. 
+  url: http://illiniunion.illinois.edu/involvement/rso/quadday/map.aspx
+
+- id: 5
   name: Fall 2015 Semester Begins
   date: 2015-08-24
   url: http://senate.illinois.edu/ep0942.html
 
-- id: 5
+- id: 6
   name: SSA Labor Day Chicago Trip 2015
   date: 2015-09-05
   start_time: 2015-09-05 09:00:00 CDT
