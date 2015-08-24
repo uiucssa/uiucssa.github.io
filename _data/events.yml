@@ -47,36 +47,36 @@
 #
 #     <strong>Note: Event only viewable after joining the UIUC SSA Facebook group</strong>
 #   url: https://www.facebook.com/events/828101997267138/
-
-- id: 3
-  name: SSA Orientation Day + Welcome Back BBQ 2015
-  date: 2015-08-22
-  start_time: 2015-08-22 09:00:00 CDT
-  end_time: 2015-08-22 23:00:00 CDT
-  location: UIUC South Quad + Refer to Facebook event for location
-  description: |
-    <strong><a href="https://www.facebook.com/events/153838484947511/">Orientation Day</a></strong>
-    For the freshies - Come on out and meet your fellow batchmates and seniors as you prepare to embark on a wonderful journey at your new home away from home!
-
-    For the sophomores, juniors and seniors - Come on out and meet the new freshies, get to know them and teach them everything you know about this home away from home!
-
-    <strong>Note: Event only viewable after joining the UIUC SSA Facebook group</strong>
-
-    <strong><a href="https://www.facebook.com/events/962780407077963/">Welcome Back BBQ</a></strong>
-    Come hang out and join us for dinner as we grill burgers, hot dogs and more! Get to know your fellow Singaporeans over food the American way!
-
-    <strong>Note: Event only viewable after joining the UIUC SSA Facebook group</strong>
-  url: #
-
-- id: 4
-  name: UIUC Quad Day 2015
-  date: 2015-08-23
-  start_time: 2015-08-23 12:00:00 CDT
-  end_time: 2015-08-23 16:00:00 CDT
-  location: UIUC Main Quad
-  description: |
-    We'll be at UIUC Quad Day 2015! Come check us out. 
-  url: http://illiniunion.illinois.edu/involvement/rso/quadday/map.aspx
+#
+# - id: 3
+#   name: SSA Orientation Day + Welcome Back BBQ 2015
+#   date: 2015-08-22
+#   start_time: 2015-08-22 09:00:00 CDT
+#   end_time: 2015-08-22 23:00:00 CDT
+#   location: UIUC South Quad + Refer to Facebook event for location
+#   description: |
+#     <strong><a href="https://www.facebook.com/events/153838484947511/">Orientation Day</a></strong>
+#     For the freshies - Come on out and meet your fellow batchmates and seniors as you prepare to embark on a wonderful journey at your new home away from home!
+#
+#     For the sophomores, juniors and seniors - Come on out and meet the new freshies, get to know them and teach them everything you know about this home away from home!
+#
+#     <strong>Note: Event only viewable after joining the UIUC SSA Facebook group</strong>
+#
+#     <strong><a href="https://www.facebook.com/events/962780407077963/">Welcome Back BBQ</a></strong>
+#     Come hang out and join us for dinner as we grill burgers, hot dogs and more! Get to know your fellow Singaporeans over food the American way!
+#
+#     <strong>Note: Event only viewable after joining the UIUC SSA Facebook group</strong>
+#   url: #
+#
+# - id: 4
+#   name: UIUC Quad Day 2015
+#   date: 2015-08-23
+#   start_time: 2015-08-23 12:00:00 CDT
+#   end_time: 2015-08-23 16:00:00 CDT
+#   location: UIUC Main Quad
+#   description: |
+#     We'll be at UIUC Quad Day 2015! Come check us out.
+#   url: http://illiniunion.illinois.edu/involvement/rso/quadday/map.aspx
 
 - id: 5
   name: Fall 2015 Semester Begins
