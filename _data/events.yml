@@ -78,19 +78,37 @@
 #     We'll be at UIUC Quad Day 2015! Come check us out.
 #   url: http://illiniunion.illinois.edu/involvement/rso/quadday/map.aspx
 
-- id: 5
+#id: 5
   name: Fall 2015 Semester Begins
   date: 2015-08-24
   url: http://senate.illinois.edu/ep0942.html
 
-- id: 6
-  name: SSA Labor Day Chicago Trip 2015
-  date: 2015-09-05
-  start_time: 2015-09-05 09:00:00 CDT
-  end_time: 2015-09-06 17:00:00 CDT
-  location: Somewhere in Chicago
-  description: |
-    Check linked Facebook post for more details. Advance registration is required.
+# id: 6
+#   name: SSA Labor Day Chicago Trip 2015
+#   date: 2015-09-05
+#   start_time: 2015-09-05 09:00:00 CDT
+#   end_time: 2015-09-06 17:00:00 CDT
+#   location: Somewhere in Chicago
+#   description: |
+#     Check linked Facebook post for more details. Advance registration is required.
 
-    <strong>Note: Post only viewable after joining the UIUC SSA Facebook group</strong>
-  url: https://www.facebook.com/groups/uiucssa/permalink/906705502728743/
+#     <strong>Note: Post only viewable after joining the UIUC SSA Facebook group</strong>
+#    url: https://www.facebook.com/groups/uiucssa/permalink/906705502728743/
+
+- id: 7
+  name: Mid-Autumn Festival Celebration
+  date: 2015-09-27
+  start_time: 2015-09-27 19:00:00 CDT
+  end_time: 2015-09-27 21:30:00 CDT
+  location: UIUC Main Quad
+  description: |
+    Check linked Facebook post for more details!
+  url: https://www.facebook.com/events/160122087663552/
+
+- id: 8
+  name: Halloween
+  date: 2015-11-07
+  start_time: TBC
+  end_time: TBC
+  location: TBC
+  description:
