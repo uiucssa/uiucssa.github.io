@@ -95,20 +95,20 @@
 #     <strong>Note: Post only viewable after joining the UIUC SSA Facebook group</strong>
 #    url: https://www.facebook.com/groups/uiucssa/permalink/906705502728743/
 
-- id: 7
-  name: Mid-Autumn Festival Celebration
-  date: 2015-09-27
-  start_time: 2015-09-27 19:00:00 CDT
-  end_time: 2015-09-27 21:30:00 CDT
-  location: UIUC Main Quad
-  description: |
-    Check linked Facebook post for more details!
-  url: https://www.facebook.com/events/160122087663552/
+#- id: 7
+#  name: Mid-Autumn Festival Celebration
+#  date: 2015-09-27
+#  start_time: 2015-09-27 19:00:00 CDT
+#  end_time: 2015-09-27 21:30:00 CDT
+#  location: UIUC Main Quad
+#  description: |
+#    Check linked Facebook post for more details!
+#  url: https://www.facebook.com/events/160122087663552/
 
 - id: 8
   name: Halloween
-  date: 2015-11-07
-  start_time: TBC
-  end_time: TBC
-  location: TBC
-  description:
+  date: 2015-10-31
+  start_time: 
+  end_time:
+  location:
+  description: Details are yet to be confirmed. Stay tuned for updates!
