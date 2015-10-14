@@ -108,7 +108,8 @@
 - id: 8
   name: Halloween
   date: 2015-10-31
-  start_time: 
-  end_time:
-  location:
-  description: Details are yet to be confirmed. Stay tuned for updates!
+  start_time: 2015-10-31 19:00:00 CDT
+  end_time: 2015-10-31 21:00:00 CDT
+  location: Lincoln Hall 1090
+  description: Are you ready to be thrust into a game of life and death? Are you ready to destroy your opponent for the necessary tools to survive this apocalypse? Prove your mettle this coming Halloween!
+  url: https://www.facebook.com/events/913095442117187/
