@@ -113,3 +113,21 @@
   location: Lincoln Hall 1090
   description: Are you ready to be thrust into a game of life and death? Are you ready to destroy your opponent for the necessary tools to survive this apocalypse? Prove your mettle this coming Halloween!
   url: https://www.facebook.com/events/913095442117187/
+
+- id: 9
+  name: Makanfest 2016
+  date: 2016-04-23
+  start_time: 2015-04-23 19:00:00 CDT
+  end_time: 2015-04-23 21:00:00 CDT
+  location: University YMCA - UIUC
+  description: SSA's annual bonanza of deliciousness and fun.
+  url: https://www.facebook.com/events/1166221950063443/
+
+- id: 10
+  name: Spring Formal
+  date: 2016-04-30
+  start_time:
+  end_time:
+  location:
+  description:
+  url:

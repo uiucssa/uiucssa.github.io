@@ -10,3 +10,33 @@
   date: 2015-09-28
   description:
   url: http://us11.campaign-archive1.com/?u=0e8300abbd4a21ba4dd539acf&id=52fdaaadad
+
+- id: 3
+  name: Autumn (for real)
+  date: 2015-11-3
+  description:
+  url: http://us11.campaign-archive1.com/?u=0e8300abbd4a21ba4dd539acf&id=0648dce9ac
+
+- id: 4
+  name: Winter
+  date: 2015-11-30
+  description:
+  url: http://us11.campaign-archive1.com/?u=0e8300abbd4a21ba4dd539acf&id=48f4752a29
+
+- id: 5
+  name: Welcome Back!
+  date: 2016-01-30
+  description:
+  url: http://us11.campaign-archive2.com/?u=0e8300abbd4a21ba4dd539acf&id=e2eb5dbe6a
+
+- id: 6
+  name: Welcome Back!
+  date: 2016-03-05
+  description:
+  url: http://us11.campaign-archive1.com/?u=0e8300abbd4a21ba4dd539acf&id=108c8449b6
+
+- id: 7
+  name: It's Spring!
+  date: 2016-04-06
+  description:
+  url: http://us11.campaign-archive2.com/?u=0e8300abbd4a21ba4dd539acf&id=0c6dbcf6e4
