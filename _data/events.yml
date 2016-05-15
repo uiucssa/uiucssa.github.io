@@ -105,29 +105,74 @@
 #    Check linked Facebook post for more details!
 #  url: https://www.facebook.com/events/160122087663552/
 
-- id: 8
-  name: Halloween
-  date: 2015-10-31
-  start_time: 2015-10-31 19:00:00 CDT
-  end_time: 2015-10-31 21:00:00 CDT
-  location: Lincoln Hall 1090
-  description: Are you ready to be thrust into a game of life and death? Are you ready to destroy your opponent for the necessary tools to survive this apocalypse? Prove your mettle this coming Halloween!
-  url: https://www.facebook.com/events/913095442117187/
+#- id: 8
+#  name: Halloween
+#  date: 2015-10-31
+#  start_time: 2015-10-31 19:00:00 CDT
+#  end_time: 2015-10-31 21:00:00 CDT
+#  location: Lincoln Hall 1090
+#  description: Are you ready to be thrust into a game of life and death? Are you ready to destroy your opponent for the necessary tools to survive this apocalypse? Prove your mettle this coming Halloween!
+#  url: https://www.facebook.com/events/913095442117187/
 
-- id: 9
-  name: Makanfest 2016
-  date: 2016-04-23
-  start_time: 2015-04-23 19:00:00 CDT
-  end_time: 2015-04-23 21:00:00 CDT
-  location: University YMCA - UIUC
-  description: SSA's annual bonanza of deliciousness and fun.
-  url: https://www.facebook.com/events/1166221950063443/
+#- id: 9
+  #name: Makanfest 2016
+  #date: 2016-04-23
+  #start_time: 2015-04-23 19:00:00 CDT
+  #end_time: 2015-04-23 21:00:00 CDT
+  #location: University YMCA - UIUC
+  #description: SSA's annual bonanza of deliciousness and fun.
+  #url: https://www.facebook.com/events/1166221950063443/
 
 - id: 10
   name: Spring Formal
   date: 2016-04-30
-  start_time:
-  end_time:
-  location:
-  description:
-  url:
+  start_time: 2016-04-30 18:00:00 CDT
+  end_time: 2016-04-30 21:30:00 CDT
+  location: I-Hotel
+  description: SSA's End-of-Year Event
+  url: https://www.facebook.com/events/1575887132723744/
+       
+- id: 11
+  name: Graduation Lunch 2016
+  date: 2016-05-14
+  start_time: 2015-05-14 12:00:00 CDT
+  end_time: 2015-05-14 14:00:00 CDT
+  location: Asian American Cultural Center
+  description: SSA's graduation lunch to the graduating class of 2016!
+  url: https://www.facebook.com/events/1020811628006086/
+       
+- id: 12
+  name: Illini Day 2016 &mdash; Pre-Departure Briefing & Activities
+  date: 2016-06-04
+  start_time: 2016-06-04 T14:30:00+08:00
+  end_time: 2016-06-04 T17:00:00+08:00
+  location: Furama Jupiter III, level 3
+  url: https://www.facebook.com/events/1031653193593744/
+  description: |
+      1500-1530: Pre-Departure Briefing for New Students
+      1530-1715: Q&A/Group session
+      1715-1800: Talk by External Speaker
+      1800-1815: Photo Taking
+      1815 onwards: Dinner social at Vivo (optional but highly recommended!)
+
+      RSVP at: <a href="http://goo.gl/forms/fLbPIiFnfQ">http://goo.gl/forms/fLbPIiFnfQ</a> ASAP, so we will know how many to expect and how to reach you nearer to the date!
+
+          Why should you attend?
+
+      If you are a NEW STUDENT:
+          1.  Be aware of what you should prepare before leaving for the States and what you should do when you get to campus!
+          2.  Meet with the current students, ask questions and be welcomed into your home away from home smile emoticon
+          3.  Current students and alumni will share advice on how to make full use of your Illinois experience e.g. upcoming SSA events and opportunities available on campus!
+
+      If you are a CURRENT STUDENT:
+          1.  Be in touch with your Fighting Illini spirit as you welcome the new students into the Illinois Family and meet UIUC Alums!
+          2.  As you share your experiences, you’ll be reminded of how great a home U of I has been to you!
+          3.  Glean lifelong takeaways from Mr. David Lum’s talk on Emotional Intelligence!
+
+      If you are an ALUM:
+          1.  Re-connect back with fellow alumni and juniors to expand your network
+          2.  Share and remember the awesome experiences you once had as an undergraduate or graduate
+          3.  Expand and go deeper on Emotional Intelligence with Mr. David Lum
+
+      **Note: Event only viewable after joining the UIUC SSA Facebook group**
+

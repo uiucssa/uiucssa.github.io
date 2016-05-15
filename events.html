@@ -3,6 +3,7 @@ layout: page
 title: Upcoming Events
 ---
 
+<p>RSVP to them by clicking on the event!</p>
 <table class="table">
 	{% for event in site.data.events %}
 		{% if event.date == 'TBA' %}
@@ -51,7 +52,7 @@ title: Upcoming Events
 			                    break;
 			                  default:
 			                    if(daysLeft >= 6) message = "in " + daysLeft + " days";
-			                    else if(daysLeft < 0) message = "you've missed it";
+			                    else if(daysLeft < 0) message = "it's over";
 			                    else
 			                    {
 			                      dayofWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];

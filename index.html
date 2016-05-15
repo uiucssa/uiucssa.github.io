@@ -5,112 +5,108 @@ title: Home
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron" style="margin-bottom: 0px;">
-  <div class="container">
-    <h2>UIUC <span style="color: #ED2E38;">Singapore</span> Students Association</h2>
-    <p>A home away from home in the University of Illinois at Urbana-Champaign</p>
+    <div class="container">
+        <h2>UIUC <span style="color: #ED2E38;">Singapore</span> Students Association</h2>
+        <p>A home away from home in the University of Illinois at Urbana-Champaign</p>
 
-    <p>
-      <a class="btn btn-primary btn-lg" href="https://www.facebook.com/UIUCSSA" role="button" style="background-color: #3B5998; margin-bottom: 10px;"><i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;Page</a>
-      <a class="btn btn-primary btn-lg" href="https://www.facebook.com/groups/uiucssa/" role="button" style="background-color: #3B5998; margin-bottom: 10px;"><i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;Group</a>
-      <!-- <a class="btn btn-primary btn-lg" href="#" role="button" style="background-color: #55ACEE; margin-bottom: 10px;"><i class="fa fa-twitter-square fa-lg"></i>&nbsp;&nbsp;Twitter</a> -->
-    </p>
-  </div>
-</div>
+        <p>
+        <a class="btn btn-primary btn-lg" href="https://www.facebook.com/UIUCSSA" role="button" style="background-color: #3B5998; margin-bottom: 10px;"><i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;Page</a>
+        <a class="btn btn-primary btn-lg" href="https://www.facebook.com/groups/uiucssa/" role="button" style="background-color: #3B5998; margin-bottom: 10px;"><i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;Group</a>
+        <!--<a class="btn btn-primary btn-lg" href="#" role="button" style="background-color: #55ACEE; margin-bottom: 10px;"><i class="fa fa-twitter-square fa-lg"></i>&nbsp;&nbsp;Twitter</a> -->
+        </p>
+    </div>
+</div> <!-- End Jumbotron -->
+
 <hr style="border: none; height: 2px; background-color: #ED2E38; margin-top: 0px;">
 
 <div class="container">
-  <!-- Example row of columns -->
-  <div class="row">
-    <div class="col-md-4" style="margin-bottom: 40px;">
-      <h3>From the blog</h3>
-      <table class="table table-condensed" style="height: 200px;">
-        {% for post in site.posts limit:1 %}
-          <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ post.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td> </tr>
-        {% endfor %}
-        {% for post in site.posts limit:4 offset:1 %}
-          <tr> <td class="col-md-4"><span style="font-family:monospace;">{{ post.date | date: '%d %b %Y' | upcase }}</span></td> <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td> </tr>
-        {% endfor %}
-      </table>
-      <p><a class="btn btn-default" href="{{ site.url }}/blog.html" role="button">More posts &raquo;</a></p>
-    </div>
+    <div class="row">
+        <div class="col-md-4" style="margin-bottom: 40px;"> 
+            <h3>From the blog</h3>
+            <table class="table table-condensed" style="height: 200px;">
+                {% for post in site.posts limit:1 %}
+                <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ post.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td> </tr>
+                {% endfor %}
+                {% for post in site.posts limit:4 offset:1 %}
+                <tr> <td class="col-md-4"><span style="font-family:monospace;">{{ post.date | date: '%d %b %Y' | upcase }}</span></td> <td><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></td> </tr>
+                {% endfor %}
+            </table>
+            <p><a class="btn btn-default" href="{{ site.url }}/blog.html" role="button">More posts &raquo;</a></p>
+        </div> <!-- End first col -->
 
-    <div class="col-md-4" style="margin-bottom: 40px;">
-      <h3>Hi there</h3>
+        <div class="col-md-4" style="margin-bottom: 40px;">
+            <h3>Hi there</h3>
 
-      <table class="table table-condensed" style="height: 200px; line-height: 1.5;">
-          <tr><td style="border-top: none">
-            <!-- Summer 2015 Message -->
-            <!--
-            <p>Are you an incoming Freshman?</p>
-            <p>If you are, welcome and congratulations on being admitted to UIUC. </p>
-            <p>Now check out your personal guide to getting started at the school. </p>
-            <p>We look forward to seeing you around soon! </p>
-            -->
+            <table class="table table-condensed" style="height: 200px; line-height: 1.5;">
+                <tr><td style="border-top: none">
+                        <!-- Summer 2016 Message -->
+                        <p>Are you an incoming Freshman?</p>
+                        <p>If you are, welcome and congratulations on being admitted to UIUC. </p>
+                        <p>Now check out your personal guide under "Resources" to getting started at the school. </p>
+                        <p>We look forward to seeing you around soon! </p>
 
-            <!-- Fall 2015 Message 1 -->
-            <p>Welcome (back) to campus! Hope you're settling in just fine. </p>
-            <p>Check out the series of events we have in store for you. </p>
-            <p>Have you RSVP for our annual Halloween event? It's gonna be fun!</p>
-            <p>We look forward to seeing you around ;-) </p>
+                        <!-- Spring 2017 Message 1 -->
+                        <!--
+                            <p>Welcome (back) to campus! Hope you're settling in just fine. </p>
+                            <p>Check out the series of events we have in store for you. </p>
+                            <p>Have you RSVP for our annual Halloween event? It's gonna be fun!</p>
+                            <p>We look forward to seeing you around ;-) </p>
+                        -->
 
-            <!-- Still reading? Brilliant. Always read the source code.
-            First person to email core@uiucssa.com with a picture of a cat and the subject line "ohai" gets a limited-edition DEF CON 23 hotel keycard.
-            UIUC SSA ExCo/BoD members not eligible. You've already got plenty of love. -->
-          </td></tr>
-      </table>
+                        <!-- Still reading? Brilliant. Always read the source code.
+                            First person to email core@uiucssa.com with a picture of a cat and the subject line "ohai" gets a limited-edition DEF CON 23 hotel keycard.
+                            UIUC SSA ExCo/BoD members not eligible. You've already got plenty of love. -->
+                    </td></tr>
+            </table>
+        </div> <!-- End second col -->
 
-      <p><a class="btn btn-default" href="https://www.facebook.com/events/913095442117187/" role="button">Halloween 2015 &raquo;</a></p>
-    </div>
+        <div class="col-md-4" style="margin-bottom: 40px;">
+            <h3>What's next</h3>
+            <table class="table table-condensed" style="height: 200px;">
+                {% for event in site.data.events limit:3 %}
+                {% if event.date == 'TBA' %}
+                <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">?? ??? ????</span></td> <td style="border-top: none"><a href="{{ site.url }}/events.html#{{ event.id }}">{{ event.name }}</a><br>
+                        (TBA)
+                    </td> </tr>
+                {% else %}
+                    <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ event.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ site.url }}/events.html#{{ event.id }}">{{ event.name }}</a><br>
 
-    <div class="col-md-4" style="margin-bottom: 40px;">
-      <h3>What's next</h3>
-      <table class="table table-condensed" style="height: 200px;">
-        {% for event in site.data.events limit:3 %}
-          {% if event.date == 'TBA' %}
-            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">?? ??? ????</span></td> <td style="border-top: none"><a href="{{ site.url }}/events.html#{{ event.id }}">{{ event.name }}</a><br>
+                            <script type="text/javascript">
+var eventDate = new Date("{{ event.date | date: '%d %b %Y' | upcase }}");
+var currentDate = new Date();
 
-              (TBA)
+var dateDiff = eventDate.getTime() - currentDate.getTime();
+var daysLeft = Math.floor( dateDiff / (1000*60*60*24) );
 
-            </td> </tr>
-          {% else %}
-            <tr> <td class="col-md-4" style="border-top: none"><span style="font-family:monospace;">{{ event.date | date: '%d %b %Y' | upcase }}</span></td> <td style="border-top: none"><a href="{{ site.url }}/events.html#{{ event.id }}">{{ event.name }}</a><br>
+var message = "";
 
-            <script type="text/javascript">
-              var eventDate = new Date("{{ event.date | date: '%d %b %Y' | upcase }}");
-              var currentDate = new Date();
+switch(daysLeft)
+{
+    case 0:
+        message = "it's tomorrow!";
+        break;
+    case -1:
+        message = "it's today!";
+        break;
+    default:
+        if(daysLeft >= 6) message = "in " + daysLeft + " days";
+        else if(daysLeft < 0) message = "it's over";
+        else
+        {
+            dayofWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+            message = "this coming " + dayofWeek[eventDate.getDay()];
+        }
+        break;
+}
 
-              var dateDiff = eventDate.getTime() - currentDate.getTime();
-              var daysLeft = Math.floor( dateDiff / (1000*60*60*24) );
+document.write("(" + message + ")");
+                            </script>
 
-              var message = "";
-
-              switch(daysLeft)
-              {
-                case 0:
-                  message = "it's tomorrow!";
-                  break;
-                case -1:
-                  message = "it's today!";
-                  break;
-                default:
-                  if(daysLeft >= 6) message = "in " + daysLeft + " days";
-                  else if(daysLeft < 0) message = "you've missed it";
-                  else
-                  {
-                    dayofWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-                    message = "this coming " + dayofWeek[eventDate.getDay()];
-                  }
-                  break;
-              }
-
-              document.write("(" + message + ")");
-            </script>
-
-            </td> </tr>
-          {% endif %}
-        {% endfor %}
-      </table>
-      <p><a class="btn btn-default" href="{{ site.url }}/events.html" role="button">Upcoming events &raquo;</a></p>
-    </div>
-  </div>
-</div>
+                        </td> </tr>
+                        {% endif %}
+                        {% endfor %}
+            </table>
+            <p><a class="btn btn-default" href="{{ site.url }}/events.html" role="button">Upcoming events &raquo;</a></p>
+        </div> <!-- end of third col -->
+    </div> <!-- end row -->
+</div> <!-- end body container -->
