@@ -2,3 +2,5 @@ gems:
   - jekyll-sitemap
 
 timezone: America/Chicago
+
+permalink: pretty
