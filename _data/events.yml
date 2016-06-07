@@ -1,179 +1,179 @@
-- id: 1
-  name: Illini Day 2015 &mdash; Pre-Departure Briefing & Activities
-  date: 2015-06-20
-  start_time: 2015-06-20T14:00:00+08:00
-  end_time: 2015-06-20T18:00:00+08:00
-  location: Refer to Facebook event for location
-  description: |
-    1400-1530: Pre-Departure Briefing for New Students
-    1530-1600: Q&A/Mingling Session
-    1600-1700: “Leadership Series” Talk on Emotional Intelligence by Mr. David Lum (Director, Motorola Solutions)
-    1700 onwards: Dinner Outing (Own time own target)
-    2000 onwards: Timbre (TBC)
-    2200 onwards: Nightcycling (TBC)
+#- id: 1
+  #name: Illini Day 2015 &mdash; Pre-Departure Briefing & Activities
+  #date: 2015-06-20
+  #start_time: 2015-06-20T14:00:00+08:00
+  #end_time: 2015-06-20T18:00:00+08:00
+  #location: Refer to Facebook event for location
+  #description: |
+    #1400-1530: Pre-Departure Briefing for New Students
+    #1530-1600: Q&A/Mingling Session
+    #1600-1700: “Leadership Series” Talk on Emotional Intelligence by Mr. David Lum (Director, Motorola Solutions)
+    #1700 onwards: Dinner Outing (Own time own target)
+    #2000 onwards: Timbre (TBC)
+    #2200 onwards: Nightcycling (TBC)
 
-    RSVP at: http://goo.gl/forms/Lx93swcP6X ASAP, so we will know how many to expect and how to reach you nearer to the date!
+    #RSVP at: http://goo.gl/forms/Lx93swcP6X ASAP, so we will know how many to expect and how to reach you nearer to the date!
 
-    Why should you attend?
+    #Why should you attend?
 
-    If you are a NEW STUDENT:
-    1.  Be aware of what you should prepare before leaving for the States and what you should do when you get to campus!
-    2.  Meet with the current students, ask questions and be welcomed into your home away from home smile emoticon
-    3.  Current students and alumni will share advice on how to make full use of your Illinois experience e.g. upcoming SSA events and opportunities available on campus!
+    #If you are a NEW STUDENT:
+    #1.  Be aware of what you should prepare before leaving for the States and what you should do when you get to campus!
+    #2.  Meet with the current students, ask questions and be welcomed into your home away from home smile emoticon
+    #3.  Current students and alumni will share advice on how to make full use of your Illinois experience e.g. upcoming SSA events and opportunities available on campus!
 
-    If you are a CURRENT STUDENT:
-    1.  Be in touch with your Fighting Illini spirit as you welcome the new students into the Illinois Family and meet UIUC Alums!
-    2.  As you share your experiences, you’ll be reminded of how great a home U of I has been to you!
-    3.  Glean lifelong takeaways from Mr. David Lum’s talk on Emotional Intelligence!
+    #If you are a CURRENT STUDENT:
+    #1.  Be in touch with your Fighting Illini spirit as you welcome the new students into the Illinois Family and meet UIUC Alums!
+    #2.  As you share your experiences, you’ll be reminded of how great a home U of I has been to you!
+    #3.  Glean lifelong takeaways from Mr. David Lum’s talk on Emotional Intelligence!
 
-    If you are an ALUM:
-    1.  Re-connect back with fellow alumni and juniors to expand your network
-    2.  Share and remember the awesome experiences you once had as an undergraduate or graduate
-    3.  Expand and go deeper on Emotional Intelligence with Mr. David Lum
+    #If you are an ALUM:
+    #1.  Re-connect back with fellow alumni and juniors to expand your network
+    #2.  Share and remember the awesome experiences you once had as an undergraduate or graduate
+    #3.  Expand and go deeper on Emotional Intelligence with Mr. David Lum
 
-    **Note: Event only viewable after joining the UIUC SSA Facebook group**
-  url: https://www.facebook.com/events/923524331044839/
+    #**Note: Event only viewable after joining the UIUC SSA Facebook group**
+  #url: https://www.facebook.com/events/923524331044839/
 
-- id: 2
-  name: Summer BBQ 2015
-  date: 2015-07-25
-  start_time: 2015-07-25T17:00:00+08:00
-  end_time: 2015-07-25T20:00:00+08:00
-  location: Refer to Facebook event for location
-  description: |
-    Are you hungry? Are you a UIUC new student? Are you a UIUC current student? Were you ever a UIUC student?
+#- id: 2
+  #name: Summer BBQ 2015
+  #date: 2015-07-25
+  #start_time: 2015-07-25T17:00:00+08:00
+  #end_time: 2015-07-25T20:00:00+08:00
+  #location: Refer to Facebook event for location
+  #description: |
+    #Are you hungry? Are you a UIUC new student? Are you a UIUC current student? Were you ever a UIUC student?
 
-    If you say yes to at least two of the above questions, we cordially invite you to our annual BBQ gathering to have some good fun time with some good fun people! :) See you there!
+    #If you say yes to at least two of the above questions, we cordially invite you to our annual BBQ gathering to have some good fun time with some good fun people! :) See you there!
 
-    <strong>Note: Event only viewable after joining the UIUC SSA Facebook group</strong>
-  url: https://www.facebook.com/events/828101997267138/
+    #<strong>Note: Event only viewable after joining the UIUC SSA Facebook group</strong>
+  #url: https://www.facebook.com/events/828101997267138/
 
-- id: 3
-  name: SSA Orientation Day + Welcome Back BBQ 2015
-  date: 2015-08-22
-  start_time: 2015-08-22 09:00:00 CDT
-  end_time: 2015-08-22 23:00:00 CDT
-  location: UIUC South Quad + Refer to Facebook event for location
-  description: |
-    <strong><a href="https://www.facebook.com/events/153838484947511/">Orientation Day</a></strong>
-    For the freshies - Come on out and meet your fellow batchmates and seniors as you prepare to embark on a wonderful journey at your new home away from home!
+#- id: 3
+  #name: SSA Orientation Day + Welcome Back BBQ 2015
+  #date: 2015-08-22
+  #start_time: 2015-08-22 09:00:00 CDT
+  #end_time: 2015-08-22 23:00:00 CDT
+  #location: UIUC South Quad + Refer to Facebook event for location
+  #description: |
+    #<strong><a href="https://www.facebook.com/events/153838484947511/">Orientation Day</a></strong>
+    #For the freshies - Come on out and meet your fellow batchmates and seniors as you prepare to embark on a wonderful journey at your new home away from home!
 
-    For the sophomores, juniors and seniors - Come on out and meet the new freshies, get to know them and teach them everything you know about this home away from home!
+    #For the sophomores, juniors and seniors - Come on out and meet the new freshies, get to know them and teach them everything you know about this home away from home!
 
-    <strong>Note: Event only viewable after joining the UIUC SSA Facebook group</strong>
+    #<strong>Note: Event only viewable after joining the UIUC SSA Facebook group</strong>
 
-    <strong><a href="https://www.facebook.com/events/962780407077963/">Welcome Back BBQ</a></strong>
-    Come hang out and join us for dinner as we grill burgers, hot dogs and more! Get to know your fellow Singaporeans over food the American way!
+    #<strong><a href="https://www.facebook.com/events/962780407077963/">Welcome Back BBQ</a></strong>
+    #Come hang out and join us for dinner as we grill burgers, hot dogs and more! Get to know your fellow Singaporeans over food the American way!
 
-    <strong>Note: Event only viewable after joining the UIUC SSA Facebook group</strong>
-  url: #
+    #<strong>Note: Event only viewable after joining the UIUC SSA Facebook group</strong>
+  #url: #
 
-- id: 4
-  name: UIUC Quad Day 2015
-  date: 2015-08-23
-  start_time: 2015-08-23 12:00:00 CDT
-  end_time: 2015-08-23 16:00:00 CDT
-  location: UIUC Main Quad
-  description: |
-    We'll be at UIUC Quad Day 2015! Come check us out.
-  url: http://illiniunion.illinois.edu/involvement/rso/quadday/map.aspx
+#- id: 4
+  #name: UIUC Quad Day 2015
+  #date: 2015-08-23
+  #start_time: 2015-08-23 12:00:00 CDT
+  #end_time: 2015-08-23 16:00:00 CDT
+  #location: UIUC Main Quad
+  #description: |
+    #We'll be at UIUC Quad Day 2015! Come check us out.
+  #url: http://illiniunion.illinois.edu/involvement/rso/quadday/map.aspx
 
-- id: 5
-  name: Fall 2015 Semester Begins
-  date: 2015-08-24
-  url: http://senate.illinois.edu/ep0942.html
+#- id: 5
+  #name: Fall 2015 Semester Begins
+  #date: 2015-08-24
+  #url: http://senate.illinois.edu/ep0942.html
 
-- id: 6
-  name: SSA Labor Day Chicago Trip 2015
-  date: 2015-09-05
-  start_time: 2015-09-05 09:00:00 CDT
-  end_time: 2015-09-06 17:00:00 CDT
-  location: Somewhere in Chicago
-  description: |
-    Check linked Facebook post for more details. Advance registration is required.
+#- id: 6
+  #name: SSA Labor Day Chicago Trip 2015
+  #date: 2015-09-05
+  #start_time: 2015-09-05 09:00:00 CDT
+  #end_time: 2015-09-06 17:00:00 CDT
+  #location: Somewhere in Chicago
+  #description: |
+    #Check linked Facebook post for more details. Advance registration is required.
 
-    <strong>Note: Post only viewable after joining the UIUC SSA Facebook group</strong>
-  url: https://www.facebook.com/groups/uiucssa/permalink/906705502728743/
+    #<strong>Note: Post only viewable after joining the UIUC SSA Facebook group</strong>
+  #url: https://www.facebook.com/groups/uiucssa/permalink/906705502728743/
 
-- id: 7
-  name: Mid-Autumn Festival Celebration
-  date: 2015-09-27
-  start_time: 2015-09-27 19:00:00 CDT
-  end_time: 2015-09-27 21:30:00 CDT
-  location: UIUC Main Quad
-  description: |
-   Check linked Facebook post for more details!
-  url: https://www.facebook.com/events/160122087663552/
+#- id: 7
+  #name: Mid-Autumn Festival Celebration
+  #date: 2015-09-27
+  #start_time: 2015-09-27 19:00:00 CDT
+  #end_time: 2015-09-27 21:30:00 CDT
+  #location: UIUC Main Quad
+  #description: |
+   #Check linked Facebook post for more details!
+  #url: https://www.facebook.com/events/160122087663552/
 
-- id: 8
-  name: Halloween
-  date: 2015-10-31
-  start_time: 2015-10-31 19:00:00 CDT
-  end_time: 2015-10-31 21:00:00 CDT
-  location: Lincoln Hall 1090
-  description: Are you ready to be thrust into a game of life and death? Are you ready to destroy your opponent for the necessary tools to survive this apocalypse? Prove your mettle this coming Halloween!
-  url: https://www.facebook.com/events/913095442117187/
+#- id: 8
+  #name: Halloween
+  #date: 2015-10-31
+  #start_time: 2015-10-31 19:00:00 CDT
+  #end_time: 2015-10-31 21:00:00 CDT
+  #location: Lincoln Hall 1090
+  #description: Are you ready to be thrust into a game of life and death? Are you ready to destroy your opponent for the necessary tools to survive this apocalypse? Prove your mettle this coming Halloween!
+  #url: https://www.facebook.com/events/913095442117187/
 
-- id: 9
-  name: Makanfest 2016
-  date: 2016-04-23
-  start_time: 2015-04-23 19:00:00 CDT
-  end_time: 2015-04-23 21:00:00 CDT
-  location: University YMCA - UIUC
-  description: SSA's annual bonanza of deliciousness and fun.
-  url: https://www.facebook.com/events/1166221950063443/
+#- id: 9
+  #name: Makanfest 2016
+  #date: 2016-04-23
+  #start_time: 2015-04-23 19:00:00 CDT
+  #end_time: 2015-04-23 21:00:00 CDT
+  #location: University YMCA - UIUC
+  #description: SSA's annual bonanza of deliciousness and fun.
+  #url: https://www.facebook.com/events/1166221950063443/
 
-- id: 10
-  name: Spring Formal
-  date: 2016-04-30
-  start_time: 2016-04-30 18:00:00 CDT
-  end_time: 2016-04-30 21:30:00 CDT
-  location: I-Hotel
-  description: SSA's End-of-Year Event
-  url: https://www.facebook.com/events/1575887132723744/
+#- id: 10
+  #name: Spring Formal
+  #date: 2016-04-30
+  #start_time: 2016-04-30 18:00:00 CDT
+  #end_time: 2016-04-30 21:30:00 CDT
+  #location: I-Hotel
+  #description: SSA's End-of-Year Event
+  #url: https://www.facebook.com/events/1575887132723744/
        
-- id: 11
-  name: Graduation Lunch 2016
-  date: 2016-05-14
-  start_time: 2015-05-14 12:00:00 CDT
-  end_time: 2015-05-14 14:00:00 CDT
-  location: Asian American Cultural Center
-  description: SSA's graduation lunch to the graduating class of 2016!
-  url: https://www.facebook.com/events/1020811628006086/
+#- id: 11
+  #name: Graduation Lunch 2016
+  #date: 2016-05-14
+  #start_time: 2015-05-14 12:00:00 CDT
+  #end_time: 2015-05-14 14:00:00 CDT
+  #location: Asian American Cultural Center
+  #description: SSA's graduation lunch to the graduating class of 2016!
+  #url: https://www.facebook.com/events/1020811628006086/
        
-- id: 12
-  name: Illini Day 2016 &mdash; Pre-Departure Briefing & Activities
-  date: 2016-06-04
-  start_time: 2016-06-04 T14:30:00+08:00
-  end_time: 2016-06-04 T17:00:00+08:00
-  location: Furama Jupiter III, level 3
-  url: https://www.facebook.com/events/1031653193593744/
-  description: |
-      1500-1530: Pre-Departure Briefing for New Students
-      1530-1715: Q&A/Group session
-      1715-1800: Talk by External Speaker
-      1800-1815: Photo Taking
-      1815 onwards: Dinner social at Vivo (optional but highly recommended!)
+#- id: 12
+  #name: Illini Day 2016 &mdash; Pre-Departure Briefing & Activities
+  #date: 2016-06-04
+  #start_time: 2016-06-04 T14:30:00+08:00
+  #end_time: 2016-06-04 T17:00:00+08:00
+  #location: Furama Jupiter III, level 3
+  #url: https://www.facebook.com/events/1031653193593744/
+  #description: |
+      #1500-1530: Pre-Departure Briefing for New Students
+      #1530-1715: Q&A/Group session
+      #1715-1800: Talk by External Speaker
+      #1800-1815: Photo Taking
+      #1815 onwards: Dinner social at Vivo (optional but highly recommended!)
 
-      RSVP at: <a href="http://goo.gl/forms/fLbPIiFnfQ">http://goo.gl/forms/fLbPIiFnfQ</a> ASAP, so we will know how many to expect and how to reach you nearer to the date!
+      #RSVP at: <a href="http://goo.gl/forms/fLbPIiFnfQ">http://goo.gl/forms/fLbPIiFnfQ</a> ASAP, so we will know how many to expect and how to reach you nearer to the date!
 
-          Why should you attend?
+          #Why should you attend?
 
-      If you are a NEW STUDENT:
-          1.  Be aware of what you should prepare before leaving for the States and what you should do when you get to campus!
-          2.  Meet with the current students, ask questions and be welcomed into your home away from home smile emoticon
-          3.  Current students and alumni will share advice on how to make full use of your Illinois experience e.g. upcoming SSA events and opportunities available on campus!
+      #If you are a NEW STUDENT:
+          #1.  Be aware of what you should prepare before leaving for the States and what you should do when you get to campus!
+          #2.  Meet with the current students, ask questions and be welcomed into your home away from home smile emoticon
+          #3.  Current students and alumni will share advice on how to make full use of your Illinois experience e.g. upcoming SSA events and opportunities available on campus!
 
-      If you are a CURRENT STUDENT:
-          1.  Be in touch with your Fighting Illini spirit as you welcome the new students into the Illinois Family and meet UIUC Alums!
-          2.  As you share your experiences, you’ll be reminded of how great a home U of I has been to you!
+      #If you are a CURRENT STUDENT:
+          #1.  Be in touch with your Fighting Illini spirit as you welcome the new students into the Illinois Family and meet UIUC Alums!
+          #2.  As you share your experiences, you’ll be reminded of how great a home U of I has been to you!
 
-      If you are an ALUM:
-          1.  Re-connect back with fellow alumni and juniors to expand your network
-          2.  Share and remember the awesome experiences you once had as an undergraduate or graduate
-          3.  Expand and go deeper on Emotional Intelligence with Mr. David Lum
+      #If you are an ALUM:
+          #1.  Re-connect back with fellow alumni and juniors to expand your network
+          #2.  Share and remember the awesome experiences you once had as an undergraduate or graduate
+          #3.  Expand and go deeper on Emotional Intelligence with Mr. David Lum
 
-      **Note: Event only viewable after joining the UIUC SSA Facebook group**
+      #**Note: Event only viewable after joining the UIUC SSA Facebook group**
 
 - id: 13
   name: Combined US Pre-depature briefing 2016
