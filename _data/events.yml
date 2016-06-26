@@ -186,11 +186,10 @@
        
 - id: 14
   name: UIUC Get-together 2016
-  date: TBC
-  start_time: TBC
-  end_time: TBC
-  location: TBC
-  url: TBC
+  date: 2016-07-30
+  start_time: 2016-07-30 T17:00:00+08:00
+  location: The Amery 16 Lorong K, Telok kurau Singapore 425612
+  url: https://www.facebook.com/events/1732158390405123/
   description: Catch up with all those who passed UIUC before!
 
 - id: 15
