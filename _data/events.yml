@@ -193,6 +193,15 @@
 # description: Catch up with all those who passed UIUC before!
 
 - id: 15
+  name: Fall Orientation 2016
+  date: 2016-08-20
+  start_time: 2016-08-20 10:00:00 CDT
+  end_time: 2016-08-20 12:00:00 CDT
+  location: Main Quad, Foellinger Auditorium
+  url: https://www.facebook.com/events/117918088654420/
+  description: Catch up with fellow Singaporeans and say hi in the US!
+
+- id: 16
   name: Quad Day 2016
   date: 2016-08-21
   start_time: 2016-08-21 12:00:00 CDT
@@ -201,15 +210,6 @@
   url: #
   description: Visit our booth to find out more about the SSA and what we do in UIUC!
        
-- id: 16
-  name: Welcome back BBQ 2016
-  date: TBC
-  start_time: TBC
-  end_time: TBC
-  location: TBC
-  url: #
-  description: Catch up with fellow Singaporeans and say hi in the US!
-
 - id: 17
   name: Chicago Labour Day Trip 2016
   date: 2016-09-03
