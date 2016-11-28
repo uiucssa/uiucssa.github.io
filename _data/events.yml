@@ -219,23 +219,23 @@
 #  url: https://www.facebook.com/events/289633658073000/
 #  description: Explore the Windy City and get to know our SSA!
    
-- id: 18
-  name: Halloween Apartment Crawl 2016
-  date: 2016-10-29
-  start_time: 2016-10-29 20:30:00 CDT
-  end_time: 2016-10-30 02:00:00 CDT
-  location: Chambana
-  url: https://www.facebook.com/events/188985691541207/
-  description: Visit Singaporean Houses and have fun!
+# - id: 18
+# name: Halloween Apartment Crawl 2016
+#  date: 2016-10-29
+#  start_time: 2016-10-29 20:30:00 CDT
+#  end_time: 2016-10-30 02:00:00 CDT
+#  location: Chambana
+#  url: https://www.facebook.com/events/188985691541207/
+#  description: Visit Singaporean Houses and have fun!
    
-- id: 19
-  name: Thanksgiving Dinner 2016
-  date: 2016-11-27
-  start_time: TBA
-  end_time: TBA
-  location: TBA
-  url: #
-  description: closing the semester and farewell graduates + exchangees!
+#- id: 19
+#  name: Thanksgiving Dinner 2016
+#  date: 2016-11-27
+#  start_time: TBA
+#  end_time: TBA
+#  location: TBA
+#  url: #
+#  description: closing the semester and farewell graduates + exchangees!
    
 - id: 20
   name: CNY Celebration 2017
