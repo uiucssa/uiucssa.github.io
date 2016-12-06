@@ -13,9 +13,10 @@ a.anchor {
 
 .mwg-jumbo {
     background-image: url("mwg-2017-content/mwg-jumbo.svg");
-    background-size: 100%;
+    background-size: cover;
     padding: 5em inherit;
     min-height: 500px;
+    background-repeat: no-repeat;
 }
 
 .btn-xlg, .btn-group-xlg>.btn {
