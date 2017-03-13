@@ -131,7 +131,7 @@
   #location: I-Hotel
   #description: SSA's End-of-Year Event
   #url: https://www.facebook.com/events/1575887132723744/
-       
+
 #- id: 11
   #name: Graduation Lunch 2016
   #date: 2016-05-14
@@ -140,7 +140,7 @@
   #location: Asian American Cultural Center
   #description: SSA's graduation lunch to the graduating class of 2016!
   #url: https://www.facebook.com/events/1020811628006086/
-       
+
 #- id: 12
   #name: Illini Day 2016 &mdash; Pre-Departure Briefing & Activities
   #date: 2016-06-04
@@ -183,7 +183,7 @@
 # location: Chua Thian Poh Hall, NUS
 # url: https://www.facebook.com/events/287448354923085/
 # description: Meet other students heading to the US for school this fall
-       
+
 # - id: 14
 # name: UIUC Get-together 2016
 # date: 2016-07-30
@@ -209,7 +209,7 @@
 #  location: Main Quad
 #  url: #
 #  description: Visit our booth to find out more about the SSA and what we do in UIUC!
-       
+
 #- id: 17
 #  name: Chicago Labour Day Trip 2016
 #  date: 2016-09-03
@@ -218,7 +218,7 @@
 #  location: Chicago
 #  url: https://www.facebook.com/events/289633658073000/
 #  description: Explore the Windy City and get to know our SSA!
-   
+
 # - id: 18
 # name: Halloween Apartment Crawl 2016
 #  date: 2016-10-29
@@ -227,7 +227,7 @@
 #  location: Chambana
 #  url: https://www.facebook.com/events/188985691541207/
 #  description: Visit Singaporean Houses and have fun!
-   
+
 #- id: 19
 #  name: Thanksgiving Dinner 2016
 #  date: 2016-11-27
@@ -236,36 +236,45 @@
 #  location: TBA
 #  url: #
 #  description: closing the semester and farewell graduates + exchangees!
-   
-- id: 20
-  name: CNY Celebration 2017
-  date: 2017-01-28
-  start_time: TBA
-  end_time: TBA
-  location: TBA
-  url: #
-  description: Celebrate CNY away from home!
-   
-- id: 21
-  name: MidWestern Games 2017
-  date: 2017-02-17
-  start_time: TBA
-  end_time: TBA
-  location: Chambana
-  url: #
-  description: Meet and get to know other Singaporeans in the mid west!
-   
+
+# - id: 20
+#   name: CNY Celebration 2017
+#   date: 2017-01-28
+#   start_time: TBA
+#   end_time: TBA
+#   location: TBA
+#   url: #
+#   description: Celebrate CNY away from home!
+#
+# - id: 21
+#   name: MidWestern Games 2017
+#   date: 2017-02-17
+#   start_time: TBA
+#   end_time: TBA
+#   location: Chambana
+#   url: #
+#   description: Meet and get to know other Singaporeans in the mid west!
+
 - id: 22
-  name: MakanFest 2016
-  date: 2017-04-01
-  start_time: TBA
-  end_time: TBA
-  location: TBA
-  url: #
-  description: Taste Singaporean cuisine at our food fair!
-   
+  name: Singapore Day 2017
+  date: 2017-03-15
+  start_time: 2017-03-15 18:00:00 CDT
+  end_time: 2017-03-15 20:00:00 CDT
+  location: The Career Center Interview Suite, Room 213 (616 E. Green St)
+  url: https://www.facebook.com/events/1792673314388976/
+  description: We bring to you our knowledge of the Singapore job market, and the points of entry you might have into the Singaporean economy.
+
 - id: 23
-  name: Spring Formal 2016
+  name: MakanFest 2017
+  date: 2017-04-01
+  start_time: 2017-03-15 17:00:00 CDT
+  end_time: 2017-03-15 20:00:00 CDT
+  location: University YMCA - 1001 S Wright St, Champaign, Illinois 61820
+  url: https://www.facebook.com/events/618650311665933/
+  description: Annual food festival where we bring to you delicacies from our Garden City
+
+- id: 24
+  name: Spring Formal 2017
   date: 2017-04-22
   start_time: TBA
   end_time: TBA
