@@ -1,0 +1,27 @@
+---
+layout: page
+title: MakanFest 2017
+---
+
+
+
+<div class="jumbotron">
+    <div class="row">
+        <div class="col-md-3"></div>
+    </div>
+    <div style="padding-top:100px">
+        <div style="padding-right:200px">
+            <p>
+                Join us at on 28th May for our annual Illini Day event! Current students at the University of Illinois will share their experiences studying in the United States.
+            </p>
+            <p>
+                It will be held at the Furama Waterfront hotel at 3.30pm. We welcome any incoming students and exchange students from other universities!
+            </p>
+            <p><small>
+                Find out more <a href=https://www.facebook.com/events/1689871551317905/">here</a>!
+            </small></p>
+        </div>
+    </div>
+</div>
+<div class="container">
+</div> <!--end of container -->
