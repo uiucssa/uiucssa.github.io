@@ -286,8 +286,8 @@
 - id: 25
   name: Illini Day 2017
   date: 2017-05-28
-  start_time: 2017-05-28 15:30:00 +08:00
-  end_time: 2017-05-28 17:30:00 +08:00
+  start_time: 2017-05-28 15:30:00 UDT
+  end_time: 2017-05-28 17:30:00 UDT
   location: Furama WaterFront (Singapore)
   url: https://www.facebook.com/events/1689871551317905/?ref=br_rs
   description: Annual briefing of all new UIUC students!
