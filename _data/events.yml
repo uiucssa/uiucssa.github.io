@@ -255,29 +255,39 @@
 #   url: #
 #   description: Meet and get to know other Singaporeans in the mid west!
 
-- id: 22
-  name: Singapore Day 2017
-  date: 2017-03-15
-  start_time: 2017-03-15 18:00:00 CDT
-  end_time: 2017-03-15 20:00:00 CDT
-  location: The Career Center Interview Suite, Room 213 (616 E. Green St)
-  url: https://www.facebook.com/events/1792673314388976/
-  description: We bring to you our knowledge of the Singapore job market, and the points of entry you might have into the Singaporean economy.
+#   - id: 22
+#  name: Singapore Day 2017
+#  date: 2017-03-15
+#  start_time: 2017-03-15 18:00:00 CDT
+#  end_time: 2017-03-15 20:00:00 CDT
+#  location: The Career Center Interview Suite, Room 213 (616 E. Green St)
+#  url: https://www.facebook.com/events/1792673314388976/
+#  description: We bring to you our knowledge of the Singapore job market, and the points of entry you might have into the Singaporean economy.
 
-- id: 23
-  name: MakanFest 2017
-  date: 2017-04-01
-  start_time: 2017-03-15 17:00:00 CDT
-  end_time: 2017-03-15 20:00:00 CDT
-  location: University YMCA - 1001 S Wright St, Champaign, Illinois 61820
-  url: https://www.facebook.com/events/618650311665933/
-  description: Annual food festival where we bring to you delicacies from our Garden City
+#- id: 23
+#  name: MakanFest 2017
+#  date: 2017-04-01
+#  start_time: 2017-03-15 17:00:00 CDT
+#  end_time: 2017-03-15 20:00:00 CDT
+#  location: University YMCA - 1001 S Wright St, Champaign, Illinois 61820
+#  url: https://www.facebook.com/events/618650311665933/
+#  description: Annual food festival where we bring to you delicacies from our Garden City
+#
+#- id: 24
+#  name: Spring Formal 2017
+#  date: 2017-04-22
+#  start_time: TBA
+#  end_time: TBA
+#  location: TBA
+#  url: #
+#  description: Closing the semester and farewell graduates + exchangees!
+#
 
-- id: 24
-  name: Spring Formal 2017
-  date: 2017-04-22
-  start_time: TBA
-  end_time: TBA
-  location: TBA
-  url: #
-  description: Closing the semester and farewell graduates + exchangees!
+- id: 25
+  name: Illini Day 2017
+  date: 2017-05-28
+  start_time: 2017-05-28 15:30:00 GMT+8
+  end_time: 2017-05-28 17:30:00 GMT+8
+  location: Furama WaterFront (Singapore)
+  url: https://www.facebook.com/events/1689871551317905/?ref=br_rs
+  description: Annual briefing of all new UIUC students!
