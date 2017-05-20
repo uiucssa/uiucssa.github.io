@@ -1,7 +1,8 @@
 gems:
   - jekyll-sitemap
 
-timezone: America/Chicago
+timezone: Asia/Singapore
+#initially America/Chicago
 
 permalink: pretty
 
