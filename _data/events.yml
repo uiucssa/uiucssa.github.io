@@ -283,11 +283,20 @@
 #  description: Closing the semester and farewell graduates + exchangees!
 #
 
-- id: 25
-  name: Illini Day 2017
-  date: 2017-05-28
-  start_time: 2017-05-28 15:30:00 UDT
+# - id: 25
+#   name: Illini Day 2017
+#   date: 2017-05-28
+#   start_time: 2017-05-28 15:30:00 UDT
+#   end_time: 2017-05-28 17:30:00 UDT
+#   location: Furama WaterFront (Singapore)
+#   url: https://www.facebook.com/events/1689871551317905/?ref=br_rs
+#   description: Annual briefing of all new UIUC students!
+
+- id: 26
+  name: Illini Day 2019
+  date: 2019-06-02
+  start_time: 2019-06-02 15:30:00 UDT
   end_time: 2017-05-28 17:30:00 UDT
   location: Furama WaterFront (Singapore)
-  url: https://www.facebook.com/events/1689871551317905/?ref=br_rs
-  description: Annual briefing of all new UIUC students!
+  url: https://www.facebook.com/events/991402821049679/
+  description: Welcome all UIUC Students!
