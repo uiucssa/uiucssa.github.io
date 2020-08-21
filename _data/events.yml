@@ -313,8 +313,8 @@
 - id: 28
   name: Virtual Quad Day 2020
   date: 2020-08-22
-  start_time: 2020-05-23 12:00:00 CST
-  end_time: 2020-05-23 13:00:00 CST
+  start_time: 2020-05-23 12:00:00 CDT
+  end_time: 2020-05-23 13:00:00 CDT
   location: Zoom
   url: https://illinois.zoom.us/j/98962090861
   description: Welcome all UIUC Students!
