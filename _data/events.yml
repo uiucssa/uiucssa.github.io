@@ -318,3 +318,12 @@
   location: Zoom
   url: https://illinois.zoom.us/j/98962090861
   description: Welcome all UIUC Students!
+
+- id: 28
+  name: Careers@SG 2021
+  date: 2020-02-16
+  start_time: 2020-02-16 20:00:00 CDT
+  end_time: 2020-02-16 21:30:00 CDT
+  location: Online
+  url: https://fb.me/e/1WwfND9bG
+  description: Welcome all UIUC Students!
