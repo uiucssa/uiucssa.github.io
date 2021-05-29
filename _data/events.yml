@@ -301,23 +301,23 @@
 #  url: https://www.facebook.com/events/991402821049679/
 #  description: Welcome all UIUC Students!
 
-- id: 27
-  name: Illini Day 2020
-  date: 2020-05-23
-  start_time: 2020-05-23 11:00:00 GMT+8
-  end_time: 2020-05-23 12:00:00 GMT+8
-  location: Zoom
-  url: https://www.facebook.com/events/853900475092820/
-  description: Welcome all UIUC Students!
+# - id: 27
+#   name: Illini Day 2020
+#   date: 2020-05-23
+#   start_time: 2020-05-23 11:00:00 GMT+8
+#   end_time: 2020-05-23 12:00:00 GMT+8
+#   location: Zoom
+#   url: https://www.facebook.com/events/853900475092820/
+#   description: Welcome all UIUC Students!
 
-- id: 28
-  name: Virtual Quad Day 2020
-  date: 2020-08-22
-  start_time: 2020-05-23 12:00:00 CDT
-  end_time: 2020-05-23 13:00:00 CDT
-  location: Zoom
-  url: https://illinois.zoom.us/j/98962090861
-  description: Welcome all UIUC Students!
+# - id: 28
+#   name: Virtual Quad Day 2020
+#   date: 2020-08-22
+#   start_time: 2020-05-23 12:00:00 CDT
+#   end_time: 2020-05-23 13:00:00 CDT
+#   location: Zoom
+#   url: https://illinois.zoom.us/j/98962090861
+#   description: Welcome all UIUC Students!
 
 - id: 28
   name: Careers@SG 2021
@@ -326,4 +326,13 @@
   end_time: 2021-02-16 21:30:00 CST
   location: Online
   url: https://fb.me/e/1WwfND9bG
+  description: Welcome all UIUC Students!
+
+- id: 29
+  name: Illini Day 2021
+  date: 2021-05-29
+  start_time: 2021-05-29 10:00:00 GMT+8
+  end_time: 2021-05-29 12:00:00 GMT+8
+  location: Online
+  url: https://www.facebook.com/events/841720549760711/
   description: Welcome all UIUC Students!
