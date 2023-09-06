@@ -3,7 +3,7 @@
 // auto image next
 
 function splitCSV(csv, removeEmptyFields = true) {
-	return csv.trim().split("\n").filter(line => line.length > 0).map(line => line.trim().split(",").map(field => field.trim()).filter(field => !removeEmptyFields || field.length > 0));
+	return csv.trim().split("\n").filter(line => (line.length > 0 && line.lastIndexOf("//") != 0)).map(line => line.trim().split(",").map(field => field.trim()).filter(field => !removeEmptyFields || field.length > 0));
 }
 
 // loads all the dynamically populated data from ssa-data.js
