@@ -9,8 +9,8 @@
 var eventslist_csv = `
 // Labor Day Weekend Chicago Trip,2-3 September 2023,Chicago,closed
 // Friendsgiving,November 2023,On-Campus
-Chinese New Year,10 February 2023,On-Campus
-Spring Informal,Late April 2023,On-Campus
+Chinese New Year,10 February 2024,On-Campus
+Spring Informal,Late April 2024,On-Campus
 Illini Day,August 2024,Singapore
 `;
 
