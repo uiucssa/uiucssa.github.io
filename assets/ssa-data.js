@@ -9,7 +9,7 @@
 var eventslist_csv = `
 // Labor Day Weekend Chicago Trip,2-3 September 2023,Chicago,closed
 // Friendsgiving,November 2023,On-Campus
-Chinese New Year,Saturday 3 February 2024 - 12.30 to 3 pm,La Casa Cultural Latina
+// Chinese New Year,Saturday 3 February 2024 - 12.30 to 3 pm,La Casa Cultural Latina
 Spring Informal,Late April 2024,On-Campus
 Illini Day,August 2024,Singapore
 `;
