@@ -11,8 +11,8 @@ var eventslist_csv = `
 // Friendsgiving,November 2023,On-Campus
 // Chinese New Year,Saturday 3 February 2024 - 12.30 to 3 pm,La Casa Cultural Latina
 // Spring Informal,19 April 2024 - 3 to 5 pm,RSVP in the Telegram chat!
-Illini Day,August 2024,Singapore
-Labor Day Weekend Chicago Trip,September 2024,Chicago
+// Illini Day,August 2024,Singapore
+Chicago Trip,September 2024,Chicago,Polling open!
 Friendsgiving,November 2024,On-Campus
 Chinese New Year,February 2025,On-Campus
 `;
