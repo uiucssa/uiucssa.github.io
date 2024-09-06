@@ -15,6 +15,8 @@ var eventslist_csv = `
 Chicago Trip,14-15 September 2024,RSVP closed,https://forms.gle/ugznddbrVJ282AQ59
 Friendsgiving,November 2024,On-Campus
 Chinese New Year,February 2025,On-Campus
+Spring Informal,April 2025,On-Campus
+Quad Day,September 2025,On-Campus
 `;
 
 // ===== resources formatting =====
