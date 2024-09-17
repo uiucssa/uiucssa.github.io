@@ -12,7 +12,7 @@ var eventslist_csv = `
 // Chinese New Year,Saturday 3 February 2024 - 12.30 to 3 pm,La Casa Cultural Latina
 // Spring Informal,19 April 2024 - 3 to 5 pm,RSVP in the Telegram chat!
 // Illini Day,August 2024,Singapore
-Chicago Trip,14-15 September 2024,RSVP closed,https://forms.gle/ugznddbrVJ282AQ59
+// Chicago Trip,14-15 September 2024,RSVP closed,https://forms.gle/ugznddbrVJ282AQ59
 Friendsgiving,November 2024,On-Campus
 Chinese New Year,February 2025,On-Campus
 Spring Informal,April 2025,On-Campus
@@ -64,6 +64,7 @@ var prevexcolist_csv = `
 //
 // to be written in whatever order you want the images to appear in
 var gallery_csv = `
+assets/img/gallery/2024-chi-1.jpg,<b>Chicago Trip</b> | The Bean,14 Sep 2024
 assets/img/gallery/2024-spring-informal-1.jpg,<b>Spring Informal</b> | On-Campus, 20 Apr 2024
 assets/img/gallery/2024-spring-informal-2.jpg,<b>Spring Informal</b> | On-Campus, 20 Apr 2024
 assets/img/gallery/2024-spring-informal-3.jpg,<b>Spring Informal</b> | On-Campus, 20 Apr 2024
