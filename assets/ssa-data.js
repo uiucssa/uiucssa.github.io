@@ -13,10 +13,11 @@ var eventslist_csv = `
 // Spring Informal,19 April 2024 - 3 to 5 pm,RSVP in the Telegram chat!
 // Illini Day,August 2024,Singapore
 // Chicago Trip,14-15 September 2024,RSVP closed
-Friendsgiving,November 2024,On-Campus
-Chinese New Year,February 2025,On-Campus
-Spring Informal,April 2025,On-Campus
-Quad Day,September 2025,On-Campus
+// Friendsgiving,November 2024,On-Campus
+// Chinese New Year,February 2025,On-Campus
+// Spring Informal,April 2025,On-Campus
+// Quad Day,September 2025,On-Campus
+Coming Soon!,2026,On-Campus
 `;
 
 // ===== resources formatting =====
