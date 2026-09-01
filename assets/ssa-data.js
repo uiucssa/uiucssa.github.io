@@ -68,13 +68,13 @@ var prevexcolist_csv = `
 //
 // to be written in whatever order you want the images to appear in
 var gallery_csv = `
-assets/img/gallery/2026-spring-informal.jpg,<b>Mahjong with the Kakis</b> | On-Campus, 26 Apr 2026
+assets/img/gallery/2026-mahjong.jpg,<b>Mahjong with the Kakis</b> | On-Campus, 26 Apr 2026
 assets/img/gallery/2026-spring-informal.jpg,<b>Spring Informal</b> | On-Campus, 26 Apr 2026
-assets/img/gallery/2025-friendsgiving.jpg,<b>Friensgiving</b> | On-Campus, 16 Nov 2025
+assets/img/gallery/2025-friendsgiving.jpg,<b>Friendsgiving</b> | On-Campus, 16 Nov 2025
 assets/img/gallery/2025-night-market.jpg,<b>Night Market</b> | On-Campus, 4 Oct 2025
 assets/img/gallery/2025-chicago-bean.jpg,<b>Chicago Trip</b> | The Bean, 20 Sep 2025
 assets/img/gallery/2025-chicago-outlets.jpg,<b>Chicago Trip</b> | Chicago Premium Outlets, 20 Sep 2025
-assets/img/gallery/2025-chicago-dinner.jpg,<b>chicago Trip</b> | Lou Malnati's, 20 Sep 2025 
+assets/img/gallery/2025-chicago-dinner.jpg,<b>Chicago Trip</b> | Lou Malnati's, 20 Sep 2025 
 assets/img/gallery/2024-chi-1.jpg,<b>Chicago Trip</b> | The Bean, 14 Sep 2024
 assets/img/gallery/2024-spring-informal-1.jpg,<b>Spring Informal</b> | On-Campus, 20 Apr 2024
 assets/img/gallery/2024-spring-informal-2.jpg,<b>Spring Informal</b> | On-Campus, 20 Apr 2024
