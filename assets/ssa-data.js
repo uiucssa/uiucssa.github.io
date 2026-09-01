@@ -13,10 +13,11 @@ var eventslist_csv = `
 // Spring Informal,19 April 2024 - 3 to 5 pm,RSVP in the Telegram chat!
 // Illini Day,August 2024,Singapore
 // Chicago Trip,14-15 September 2024,RSVP closed
-Friendsgiving,November 2024,On-Campus
-Chinese New Year,February 2025,On-Campus
-Spring Informal,April 2025,On-Campus
-Quad Day,September 2025,On-Campus
+Quad Day,September 2026,On-Campus,closed
+Chicago Trip,October 2026,Chicago
+Friendsgiving,November 2026,On-Campus
+Chinese New Year,February 2027,On-Campus
+Spring Informal,April 2027,On-Campus
 `;
 
 // ===== resources formatting =====
@@ -40,11 +41,11 @@ MTD's Learn to Ride,https://mtd.org/maps-and-schedules/uiuc-learn-to-ride
 //
 // to be written in the order of president/vp external/vp internal/treasurer/secretary
 var excolist_csv = `
-Harry Wang,assets/img/exco23/harry.jpg,<b>hueyjie2</b> at illinois dot edu<br><b>president</b> at uiucssa dot com
-Parithimaal Karmehan,assets/img/exco23/pari.jpg,<b>pk38</b> at illinois dot edu<br><b>external</b> at uiucssa dot com
-Andrew Loh,assets/img/exco23/andrew.jpg,<b>acloh2</b> at illinois dot edu<br><b>internal</b> at uiucssa dot com
-Adithya Balaji,assets/img/exco23/balarizz.jpg,<b>abalaji5</b> at illinois dot edu<br><b>treasurer</b> at uiucssa dot com
-Aaditya Kothary,assets/img/exco23/aadi.jpg,<b>kothary3</b> at illinois dot edu<br><b>secretary</b> at uiucssa dot com
+Jamie Sol,assets/img/exco26/jamie.png,<b>jsol2</b> at illinois dot edu<br>
+Jaren Chua,assets/img/exco26/jaren.jpg,<b>jarenc2</b> at illinois dot edu<br>
+Yu Xin Teoh,assets/img/exco26/yuxin.jpg,<b>jazlynt2</b> at illinois dot edu<br>
+Russell Kwok,assets/img/exco26/russell.png,<b>rhkwok2</b> at illinois dot edu<br>
+Philip Chen,assets/img/exco26/philip.png,<b>philipc6</b> at illinois dot edu<br>
 `;
 
 // ===== previous year exco formatting =====
@@ -52,6 +53,9 @@ Aaditya Kothary,assets/img/exco23/aadi.jpg,<b>kothary3</b> at illinois dot edu<b
 //
 // to be written in whatever order you want the list to appear in
 var prevexcolist_csv = `
+2025-26,Yu Xin Teoh,Jaren Chua,Angie Lee,Russell Lee,Pratyush Ashok Anand
+2024-25,Angie Lee,Pratyush Ashok Anand,Adithya Balaji,Harry Wang,Andrew Low
+2023-24,Harry Wang,Parithimaal Karmehan,Andrew Loh,Adithya Balaji,Aaditya Kothary
 2022-23,Jennifer Lahey,May Lee,Hanpu Liu,Davis Zhang,Ethan Handojo
 2021-22,Ravyu Sivakumaran,Faith Tan,Advay Sudarshan,Nairen Fu,Megan Poh,Vignesh Ravibaskar
 2020-21,Leck Kirk Shen,Liu Zhu Xuan,Lydia Ng,Daniel Lee
@@ -64,18 +68,25 @@ var prevexcolist_csv = `
 //
 // to be written in whatever order you want the images to appear in
 var gallery_csv = `
-assets/img/gallery/2024-chi-1.jpg,<b>Chicago Trip</b> | The Bean,14 Sep 2024
+assets/img/gallery/2026-spring-informal.jpg,<b>Mahjong with the Kakis</b> | On-Campus, 26 Apr 2026
+assets/img/gallery/2026-spring-informal.jpg,<b>Spring Informal</b> | On-Campus, 26 Apr 2026
+assets/img/gallery/2025-friendsgiving.jpg,<b>Friensgiving</b> | On-Campus, 16 Nov 2025
+assets/img/gallery/2025-night-market.jpg,<b>Night Market</b> | On-Campus, 4 Oct 2025
+assets/img/gallery/2025-chicago-bean.jpg,<b>Chicago Trip</b> | The Bean, 20 Sep 2025
+assets/img/gallery/2025-chicago-outlets.jpg,<b>Chicago Trip</b> | Chicago Premium Outlets, 20 Sep 2025
+assets/img/gallery/2025-chicago-dinner.jpg,<b>chicago Trip</b> | Lou Malnati's, 20 Sep 2025 
+assets/img/gallery/2024-chi-1.jpg,<b>Chicago Trip</b> | The Bean, 14 Sep 2024
 assets/img/gallery/2024-spring-informal-1.jpg,<b>Spring Informal</b> | On-Campus, 20 Apr 2024
 assets/img/gallery/2024-spring-informal-2.jpg,<b>Spring Informal</b> | On-Campus, 20 Apr 2024
 assets/img/gallery/2024-spring-informal-3.jpg,<b>Spring Informal</b> | On-Campus, 20 Apr 2024
 assets/img/gallery/2024-fg-1.jpg,<b>Friendsgiving</b> | On-Campus, 18 Nov 2024
-assets/img/gallery/2023-spring-informal-3.jpeg,<b>Spring Informal</b> | On-Campus,29 Apr 2023
-assets/img/gallery/2023-spring-informal-2.jpeg,<b>Spring Informal</b> | On-Campus,29 Apr 2023
-assets/img/gallery/2023-spring-informal.jpeg,<b>Spring Informal</b> | On-Campus,29 Apr 2023
-assets/img/gallery/2022-chicago-outlets.jpeg,<b>Chicago Trip</b> | Chicago Premium Outlets,6 Sep 2022
-assets/img/gallery/2022-chicago-bean.JPG,<b>Chicago Trip</b> | The Bean,5 Sep 2022
-assets/img/gallery/2022-illini-day.jpeg,<b>Illini Day</b> | Marina Barrage,5 Aug 2022
-assets/img/gallery/2018-chicago-outlets.jpg,<b>Chicago Trip</b> | Chicago Premium Outlets,2 Sep 2018
+assets/img/gallery/2023-spring-informal-3.jpeg,<b>Spring Informal</b> | On-Campus, 29 Apr 2023
+assets/img/gallery/2023-spring-informal-2.jpeg,<b>Spring Informal</b> | On-Campus, 29 Apr 2023
+assets/img/gallery/2023-spring-informal.jpeg,<b>Spring Informal</b> | On-Campus, 29 Apr 2023
+assets/img/gallery/2022-chicago-outlets.jpeg,<b>Chicago Trip</b> | Chicago Premium Outlets,2022
+assets/img/gallery/2022-chicago-bean.JPG,<b>Chicago Trip</b> | The Bean,2022
+assets/img/gallery/2022-illini-day.jpeg,<b>Illini Day</b> | Marina Barrage,2022
+assets/img/gallery/2018-chicago-outlets.jpg,<b>Chicago Trip</b> | Chicago Premium Outlets,2018
 assets/img/gallery/2017-midwest-games.jpg,<b>Midwest Games</b>,2017
 assets/img/gallery/2017-cny.jpg,<b>Chinese New Year</b>,2017
 assets/img/gallery/2016-thanksgiving-dinner.jpg,<b>Thanksgiving Dinner</b>,2016
