@@ -53,7 +53,7 @@ Philip Chen,assets/img/exco26/philip.png,<b>philipc6</b> at illinois dot edu<br>
 //
 // to be written in whatever order you want the list to appear in
 var prevexcolist_csv = `
-2025-26,Yu Xin Teoh,Jaren Chua,Angie Lee,Russell Lee,Pratyush Ashok Anand
+2025-26,Yu Xin Teoh,Jaren Chua,Angie Lee,Russell Kwok,Pratyush Ashok Anand
 2024-25,Angie Lee,Pratyush Ashok Anand,Adithya Balaji,Harry Wang,Andrew Low
 2023-24,Harry Wang,Parithimaal Karmehan,Andrew Loh,Adithya Balaji,Aaditya Kothary
 2022-23,Jennifer Lahey,May Lee,Hanpu Liu,Davis Zhang,Ethan Handojo
